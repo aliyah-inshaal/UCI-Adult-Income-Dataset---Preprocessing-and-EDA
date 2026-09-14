@@ -8,9 +8,8 @@ The goal is to transform raw demographic and employment data into a clean, struc
 
 This project demonstrates essential Data Science skills including data cleaning, feature analysis, visualization, and preprocessing techniques required before building machine learning models.
 
----
 
-## 📂 Dataset
+## Dataset
 
 **Dataset:** UCI Adult Income Dataset
 
@@ -36,9 +35,8 @@ The dataset contains information about individuals based on demographic and empl
 - Native Country
 - Income
 
----
 
-# 🔍 Project Workflow
+# Project Workflow
 
 ## 1. Data Loading & Understanding
 
@@ -50,7 +48,6 @@ The dataset contains information about individuals based on demographic and empl
   - Statistical summaries
   - Feature distributions
 
----
 
 ## 2. Data Cleaning
 
@@ -74,7 +71,6 @@ The following preprocessing steps were performed:
 - Identified duplicate records.
 - Removed exact duplicate rows to improve data quality.
 
----
 
 # 📊 Exploratory Data Analysis
 
@@ -113,8 +109,6 @@ Performed:
 - Correlation analysis
 - Outlier investigation
 
----
-
 # ⚙️ Data Preprocessing Pipeline
 
 A machine-learning-ready preprocessing pipeline was created using Scikit-learn.
@@ -140,7 +134,6 @@ Implemented using:
 
 This ensures consistent preprocessing for future machine learning models.
 
----
 
 # 🛠️ Technologies Used
 
@@ -153,8 +146,6 @@ This ensures consistent preprocessing for future machine learning models.
 | Seaborn | Statistical plots |
 | Scikit-learn | Data preprocessing |
 
----
-
 # 📈 Key Insights
 
 - Income distribution is highly imbalanced, with fewer individuals belonging to the higher income category.
@@ -162,8 +153,6 @@ This ensures consistent preprocessing for future machine learning models.
 - Certain occupations have higher representation in the higher income group.
 - Capital gain and capital loss contain highly skewed values.
 - Proper preprocessing is necessary before applying machine learning algorithms.
-
----
 
 # 📁 Repository Structure
 
